@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript and Full-stack development 
+
  [![scharuka's 42 stats](https://badge.mediaplus.ma/greenbinary/scharuka?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 <!--
 **gs313/gs313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
