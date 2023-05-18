@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning JavaScript and Full-stack development 
-- [![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+- [![scharuka's 42 stats](https://badge.mediaplus.ma/darkblue/scharuka)](https://github.com/oakoudad/badge42)
 <!--
 **gs313/gs313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
